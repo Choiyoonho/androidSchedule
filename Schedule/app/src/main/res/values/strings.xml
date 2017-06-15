@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <String name="yearPre">&lt;&lt;</String>
+    <String name="yearNext">&gt;&gt;</String>
+    <String name="monthPre">&lt;</String>
+    <String name="monthNext">&gt;</String>
+</resources>
